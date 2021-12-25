@@ -22,6 +22,10 @@ body {
   -moz-user-select: none;
   -ms-user-select: none;
 }
+.link{
+  width:48px;
+  height: 48px;
+}
 ::-moz-selection {
   color: white;
   background: black;
