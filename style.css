@@ -23,8 +23,9 @@ body {
   -ms-user-select: none;
 }
 .link{
-  width:48px;
+  width:80px;
   height: 48px;
+
 }
 ::-moz-selection {
   color: white;
